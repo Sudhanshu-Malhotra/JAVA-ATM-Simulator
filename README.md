@@ -4,17 +4,25 @@
 
 # Features:
 
-o	Login with account number and PIN validation.
-o	Account selection (Checking or Saving).
-o	View account balances.
-o	Withdraw funds with balance verification.
-o	Deposit funds into the selected account.
-o	Exit option to close the application.
+  o	Login with account number and PIN validation.
+  
+  o	Account selection (Checking or Saving).
+  
+  o	View account balances.
+  
+  o	Withdraw funds with balance verification.
+  
+  o	Deposit funds into the selected account.
+  
+  o	Exit option to close the application.
 
 # Technologies Used:
 
-o	Java
-o	HashMap for storing account data
-o	DecimalFormat for formatting monetary values
-o	This project is an excellent exercise in implementing user authentication, account management, and basic transaction handling in a console-based Java application.
+  o	Java.
+  
+  o	HashMap for storing account data.
+  
+  o	DecimalFormat for formatting monetary values.
+  
+  o	This project is an excellent exercise in implementing user authentication, account management, and basic transaction handling in a console-based Java application.
 
