@@ -10,9 +10,10 @@ View account balances.
 Withdraw funds with balance verification.
 Deposit funds into the selected account.
 Exit option to close the application.
-Technologies Used:
 
-# Java
+# Technologies Used:
+
+Java
 HashMap for storing account data
 DecimalFormat for formatting monetary values
 This project is an excellent exercise in implementing user authentication, account management, and basic transaction handling in a console-based Java application.
